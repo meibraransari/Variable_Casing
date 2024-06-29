@@ -1,6 +1,6 @@
 # Variable_Casing
 
-# Note: Always use variable in lower case in programming.
+## Note: Always use variables in lower case in programming.
 
 # Snake Case:
 ```
@@ -32,3 +32,11 @@ The only difference between the two is that pascal case requires the first lette
     NumberOfDonuts = 34
     FavePhrase = "Hello World"
 ```
+### 💼 Connect with me 👇👇 😊
+
+- 🔥 [**Youtube**](https://www.youtube.com/@DevOpsinAction?sub_confirmation=1)
+- ✍ [**Blog**](https://ibraransari.blogspot.com/)
+- 💼 [**LinkedIn**](https://www.linkedin.com/in/ansariibrar/)
+- 👨‍💻 [**Github**](https://github.com/meibraransari?tab=repositories)
+- 💬 [**Telegram**](https://t.me/DevOpsinActionTelegram)
+- 🐳 [**Docker**](https://hub.docker.com/u/ibraransaridocker)
